@@ -1,0 +1,17 @@
+
+/* Calculation of ancestors */
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int i,n,Sum=0;
+    printf("\nEnter NO of generations: ");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        Sum=Sum+pow(2,i);
+    }
+    printf(" Total Ancestors of previous %d generations are %d",n,Sum);
+    printf("\n");
+    return 0;
+}
