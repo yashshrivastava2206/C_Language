@@ -1,4 +1,4 @@
-/*Read two numbers and an operator which perform the specified operationand display the result*/
+/*Read two numbers and an operator which perform the specified operationand display the result */
 #include<stdio.h>
 #include<conio.h>
 void main()
