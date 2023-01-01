@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 void main()
-{
+{ 
 clrscr();
 int num1,num2,opt;
 printf("Enter First number:");
