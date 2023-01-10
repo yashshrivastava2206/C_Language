@@ -5,7 +5,7 @@ void main()
 {
 clrscr();
 int arr[5][3],i,j;
-printf("Enter elements in 5*3 matrix: ");
+printf("Enter elements in 5*3 matrix: "); //Input message
 for(i=0;i<5;i++)
 {
 for(j=0;j<3;j++)
