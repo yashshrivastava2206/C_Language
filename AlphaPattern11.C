@@ -8,7 +8,7 @@ EEEEE
 #include<stdio.h>
 int main()
 {
-    char ch='A';
+    char ch='A'; 
     for(int i=5;i>=1;i--)
     {
         
